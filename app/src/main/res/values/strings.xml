@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DSSAdmin</string>
+    <string name="admin_id">Admin Id</string>
+    <string name="admin_password">Admin Password</string>
+    <string name="login">Login</string>
+</resources>
